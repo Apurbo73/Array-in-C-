@@ -193,6 +193,5 @@ matrix[0][1];  // second element in first row
 
 ---
 
-Would you like practice problems or a deeper dive into **sorting/searching algorithms** on arrays?
 
 
