@@ -32,7 +32,6 @@ Then skip the input part and just print.
 
 
 
-Sure! Here’s a **complete guide to arrays in C++**, covering all the basics and essentials with examples.
 
 ---
 
