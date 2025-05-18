@@ -30,9 +30,4 @@ Then skip the input part and just print.
 
 ---
 
-Let me know if you’d like to modify this for:
 
-* **Floating-point numbers**
-* **Strings**
-* **2D arrays**
-* Or **dynamic size (using vectors)**
