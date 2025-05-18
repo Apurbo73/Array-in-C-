@@ -1,12 +1,12 @@
 ﻿## Array in C++
 
 
-Here’s a simple **C++ program** that:
 
 1. Declares an array
 2. Initializes it (optionally)
 3. Takes user input
 4. Prints the array elements
+
 
 
 
