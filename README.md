@@ -35,6 +35,8 @@ Then skip the input part and just print.
 
 ---
 
+
+
 ## 🔢 What is an Array?
 
 An **array** is a collection of **elements of the same type**, stored in **contiguous memory locations**. It allows you to store multiple values under one variable name and access them using an index.
