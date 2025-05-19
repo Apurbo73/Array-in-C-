@@ -19,7 +19,7 @@
 
 ---
 
-### 📝 Optional: Pre-initialized Array
+### 📝 Optional: Pre-initialized Array:
 
 If you want to initialize the array directly:
 
