@@ -1,6 +1,7 @@
 ﻿## Array in C++
 
 
+### Approach:
 
 1. Declares an array
 2. Initializes it (optionally)
